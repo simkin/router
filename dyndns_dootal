@@ -5,8 +5,8 @@ if [[ $# -ne 1 ]] ; then
 fi
 
 # Update the following variables:
-USERNAME=lmolenaar
-PASSWORD=UPC_M1stral$
+USERNAME=xxx
+PASSWORD=xxx
 TLD=eu
 SLD=vault13
 
