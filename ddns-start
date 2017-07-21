@@ -7,8 +7,8 @@ if [[ $# -ne 1 ]] ; then
 fi
 
 # Update the following variables:
-USERNAME=lmolenaar
-PASSWORD=UPC_M1stral$
+USERNAME=xxxxx
+PASSWORD=xxxxx
 TLD=eu
 SLD=vault13
 
